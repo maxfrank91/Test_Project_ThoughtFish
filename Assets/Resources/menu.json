@@ -1,0 +1,24 @@
+{
+	"menu":
+	{
+		"button":
+		{
+			"name": "buttonStart",
+			"text": "Start Recording",
+			"image": "UISprite",
+		},
+		"button":
+		{
+			"name": "buttonStop",
+			"text": "Stop Recording",
+			"image": "UISprite",
+		},
+		"button":
+		{
+			"name": "buttonLoad",
+			"text": "Load Recorded Events",
+			"image": "UISprite",
+		}
+		
+	}
+}

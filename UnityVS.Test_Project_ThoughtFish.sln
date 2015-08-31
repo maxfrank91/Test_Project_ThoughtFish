@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Test_Project_ThoughtFish.CSharp", "UnityVS.Test_Project_ThoughtFish.CSharp.csproj", "{A077555A-6FB1-2538-58B6-6EC3692E16F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Test_Project_ThoughtFish.CSharp.Editor", "UnityVS.Test_Project_ThoughtFish.CSharp.Editor.csproj", "{1A54198D-3B82-4661-3247-FE563B631D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A077555A-6FB1-2538-58B6-6EC3692E16F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A077555A-6FB1-2538-58B6-6EC3692E16F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A077555A-6FB1-2538-58B6-6EC3692E16F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A077555A-6FB1-2538-58B6-6EC3692E16F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A54198D-3B82-4661-3247-FE563B631D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A54198D-3B82-4661-3247-FE563B631D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A54198D-3B82-4661-3247-FE563B631D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A54198D-3B82-4661-3247-FE563B631D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
